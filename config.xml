@@ -1,7 +1,6 @@
 <config>
 	<languages> 
-		<language code="ar_SA" rtl="true"/> 
-		<language code="bg_BG"/> 
+		<language code="ar_SA" rtl="true"/>
 		<language code="bs-Latn"/> 
 		<language code="cs_CZ"/> 
 		<language code="da_DK"/> 
